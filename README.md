@@ -1,0 +1,4 @@
+deref
+=====
+
+Dereference symlinks
